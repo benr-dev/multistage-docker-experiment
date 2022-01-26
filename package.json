@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/benr-dev/multistage-docker-experiment/issues"
   },
-  "homepage": "https://github.com/benr-dev/multistage-docker-experiment#readme"
+  "homepage": "https://github.com/benr-dev/multistage-docker-experiment#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }

@@ -9,4 +9,5 @@
 nvm install 16
 nvm use
 npm init --yes
+npm install --save-dev typescript
 ```
