@@ -11,3 +11,8 @@ nvm use
 npm init --yes
 npm install --save-dev typescript
 ```
+
+## Typescript setup
+```
+npx tsc --init
+```
