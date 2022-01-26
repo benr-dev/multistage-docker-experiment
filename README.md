@@ -16,3 +16,8 @@ npm install --save-dev typescript
 ```
 npx tsc --init
 ```
+
+## Build
+```
+npm run build
+```
