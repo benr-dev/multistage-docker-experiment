@@ -1,6 +1,7 @@
 version: "3.7"
 services:
   hello-world:
-    container_name: hello-world
+    container_name: hello-world-multistage
+    image: benrdev/hello-world-multistage
     build:
       context: .
