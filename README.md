@@ -2,6 +2,7 @@
 
 ## Prerequisites
 - nvm
+- docker & docker-compose
   
 
 ## Project setup
@@ -20,4 +21,6 @@ npx tsc --init
 ## Build
 ```
 npm run build
+docker-compose build
+docker-compose up
 ```
